@@ -1,0 +1,1 @@
+This is a sample website created for exercises within the tutorial <em>Learn Enough HTML to Be Dangerous.</em>
